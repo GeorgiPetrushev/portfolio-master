@@ -1,0 +1,95 @@
+.newBackgroundColor {
+    background: linear-gradient(54deg,rgba(74,76,179,.95) 34%,hsla(0,34%,71%,.95));
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255, 255, 255, 1);
+}
+.navbar-nav li:hover {
+    opacity: 0.7;
+}
+
+.imgProfile img{
+    height: 380px;
+    top: 40px;
+}
+.personalInfo .icon{
+    font-size: 30px;
+}
+.icon {
+    display: inline;
+}
+.icon a{
+    color: white;
+}
+.icon i{
+    opacity: 0.7;
+}
+.icon i:hover{
+    opacity: 1;
+}
+a{
+    color: aqua;
+}
+a:hover{
+    color: azure;
+    text-decoration: none;
+}
+
+.btn-primary {
+    background-color: #6d56c1!important;
+    border-color: #6d56c1!important;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus {
+    background-color: #544196!important;
+    box-shadow: none !important;
+}
+
+.card{
+    margin-top: 40px;
+    border: solid 1px black;
+}
+
+.card:hover{  
+    box-shadow: 0 1px 12px rgba(0,0,0,0.55);
+    transform: scale(1.05, 1.05);
+    border:none;
+    transition: 1s;    
+}
+.card-body{
+    cursor: pointer;
+}
+
+.bg-primary {
+    background-color: #6d56c1 !important;
+}
+
+@media (max-width: 991px){
+    .menuBackgroudColor {
+        background-color: rgba(84, 86, 143, 0.8);
+    }
+    .navbar-dark .navbar-toggler{
+        border-color: rgba(0,0,0,0.4);
+    }
+    .navbar-dark .navbar-toggler-icon {
+        background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0,0,0, 0.7)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+    }
+}
+
+@media (min-width: 992px){
+    .fixed-top.scrolled {
+    background-color: rgb(255, 255, 255) !important;
+    transition: background-color 200ms linear;
+    border-bottom: 1px solid rgba(0,0,0, 0.1);
+    transition: 2s;
+    }
+    .fixed-top.scrolled a{
+        color: #000!important;
+    }
+    .fixed-top.scrolled a:hover{
+        color: #6d56c1!important;
+    }
+}
