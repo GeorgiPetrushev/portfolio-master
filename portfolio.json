@@ -45,6 +45,15 @@
         "skillset": ["HTML", "CSS", "JavaScript", "Fetch API"],
         "linkToGit": "https://github.com/GeorgiPetrushev/employee-directory-master",
         "linkToSite": "https://georgipetrushev.github.io/employee-directory-master/"
+     },
+     {
+      "id": "portfolio-project",
+      "name": "My Portfolio",
+      "description": "This projects is my Portfolio. On this page im going to keep all my project. For building this page i use a bootstrap technology and keep all my websites in JSON file so it will be easier to add future projects.",
+      "img": "projects-img/portfolio.png",
+      "skillset": ["HTML", "CSS","Bootstrap", "JavaScript", "Fetch API"],
+      "linkToGit": "https://github.com/GeorgiPetrushev/portfolio-master",
+      "linkToSite": "https://georgipetrushev.github.io/portfolio-master/"
      }
     ]
  }
