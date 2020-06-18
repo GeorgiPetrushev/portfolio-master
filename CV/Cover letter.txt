@@ -1,0 +1,22 @@
+
+
+
+
+
+In 2019 I have started showing interest in programming. Then, I decided to improve my programming skills with different online
+ courses, like TeamTreeHouse, FreeCodeCamp, Udemy. In each course I developed different set of technical skills,
+ such as HTML, CSS, JavaScript, jQuery, Bootstrap etc. If you would like to see a more detailed portfolio, please have a look at the links below.
+
+https://github.com/GeorgiPetrushev/portfolio-master
+https://georgipetrushev.github.io/portfolio-master/
+
+
+My current goals as a professional are to learn as much as possible about diverse technologies and to 
+improve my programming skills and knowledge. At this stage of my journey, I would say that I have a 
+good foundation. However, I believe I have a lot to learn.  In my opinion, I am a quick learner with
+ good problem solving mindset, anything thinking, and I am not afraid to dig deep into more complicated topics.
+I do not know whether you are currently looking for junior developers but I decided to contact you proactively.
+
+Sincerely,
+
+Georgi Petrushev
